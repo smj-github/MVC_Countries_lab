@@ -1,0 +1,11 @@
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\bin\Debug\netcoreapp3.1\Lab_MVC_Countries.exe
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\bin\Debug\netcoreapp3.1\Lab_MVC_Countries.deps.json
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\bin\Debug\netcoreapp3.1\Lab_MVC_Countries.runtimeconfig.json
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\bin\Debug\netcoreapp3.1\Lab_MVC_Countries.runtimeconfig.dev.json
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\bin\Debug\netcoreapp3.1\Lab_MVC_Countries.dll
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\bin\Debug\netcoreapp3.1\Lab_MVC_Countries.pdb
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\obj\Debug\netcoreapp3.1\Lab_MVC_Countries.csprojAssemblyReference.cache
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\obj\Debug\netcoreapp3.1\Lab_MVC_Countries.AssemblyInfoInputs.cache
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\obj\Debug\netcoreapp3.1\Lab_MVC_Countries.AssemblyInfo.cs
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\obj\Debug\netcoreapp3.1\Lab_MVC_Countries.dll
+C:\Users\116514\source\repos\Lab_MVC_Countries\Lab_MVC_Countries\obj\Debug\netcoreapp3.1\Lab_MVC_Countries.pdb
